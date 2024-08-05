@@ -15,8 +15,6 @@ CS Undergrad Student
 * 🌍  I'm based in Champadanga, West Bengal, India.
 * 🌍  Currently Studying at *University of Engineering and Management*
 * ✉  You can contact me at [sadhukhansouvik2021@gmail.com](mailto:sadhukhansouvik2021@gmail.com)
-* 🧠  I'm learning Cyber Security and Kali Linux right now
-* 🤝  I'm open to collaborating on interesting projects
 * ⚡  I have a Computer Engineering background, but most of the credit goes to Google and Stack Overflow xD
 
 
